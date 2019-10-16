@@ -1,1 +1,1 @@
-web: go-udemy
+web: bin/go-udemy
