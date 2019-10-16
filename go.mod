@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/gorilla/mux v1.7.3 // indirect
 	github.com/heroku/x v0.0.0-20171004170240-705849e307dd
-	gopkg.in/mgo.v2 v2.0.0 // indirect
+	gopkg.in/mgo.v2 v1.0.0 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 
 	github.com/tools/godep v0.0.0-20180126220526-ce0bfadeb516 // indirect
